@@ -14,3 +14,7 @@ variable "subnet_cidr_block" {
 variable "vpc_id" {
   description = "ID of the VPC in which the subnet will be created"
 }
+
+variable "route_table_id" {
+  
+}
